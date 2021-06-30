@@ -69,15 +69,15 @@ Octal Functions
 Decimal Functions
 --
 
-- dec2str >> Converts Octal code to ASCII String Text
-- dec2bin >> Converts Octal code to Binary
-- dec2oct >> Converts Octal code to Octal
-- dec2hex >> Converts Octal code to Hexadecimal
+- dec2str >> Converts Decimal code to ASCII String Text
+- dec2bin >> Converts Decimal code to Binary
+- dec2oct >> Converts Decimal code to Octal
+- dec2hex >> Converts Decimal code to Hexadecimal
 
 Hexadecimal Functions
 --
 
-- hex2str >> Converts Octal code to ASCII String Text
-- hex2bin >> Converts Octal code to Binary
-- hex2oct >> Converts Octal code to Octal
-- hex2dec >> Converts Octal code to Decimal
+- hex2str >> Converts Hexadecimal code to ASCII String Text
+- hex2bin >> Converts Hexadecimal code to Binary
+- hex2oct >> Converts Hexadecimal code to Octal
+- hex2dec >> Converts Hexadecimal code to Decimal
